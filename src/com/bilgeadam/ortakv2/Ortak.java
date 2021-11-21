@@ -31,6 +31,6 @@ public class Ortak {
 
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
         return sdf.parse(p_tarih);
-        
+
     }
 }
